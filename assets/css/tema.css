@@ -1,0 +1,12 @@
+*{
+    background-color: purple;
+}
+
+h1{
+    color: darkred;
+    text-align: center;
+}
+
+h1:hover{
+    color: darkblue;
+}
