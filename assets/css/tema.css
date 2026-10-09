@@ -10,3 +10,15 @@ h1, h2{
 h1:hover{
     color: darkblue;
 }
+
+img{
+    display: block;
+    margin: 0 auto;
+    align-items: center;
+}
+
+rodape{
+    text-align: center;
+    font-size: 14px;
+    color: darkred;
+}
